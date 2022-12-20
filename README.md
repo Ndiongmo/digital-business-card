@@ -1,3 +1,11 @@
+# Getting Started with React : Build Digital Business Card
+
+This course is from [Scrimba](https://scrimba.com/learn/learnreact/react-section-1-solo-project-coce646e88eea46f91af43ca4).
+
+Made by
+
+### `Bob Ziroll`(https://github.com/bobziroll)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
