@@ -1,0 +1,94 @@
+.App {
+  background-color: #23252c;
+  min-height: 100vh;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 20px 40px 20px 70px;
+  color: white;
+}
+
+main {
+  width: 260px;
+  background-color: #1a1b21;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  justify-content: center;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Info {
+  text-align: center;
+  line-height: 3px;
+}
+
+.Info > h4 {
+  font-size: 12px;
+  color: orangered;
+}
+
+.Info > a {
+  text-decoration: none;
+}
+
+.Button {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  margin: auto;
+  justify-content: center;
+  gap: 15px;
+}
+
+.Button > button > a {
+  text-decoration: none;
+}
+
+.Button > button {
+  width: 100px;
+}
+
+.button-lkdin {
+  background-color: #5093e2;
+  color: white;
+  border: none;
+}
+
+Footer {
+  width: 260px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 10px;
+  padding: 20px 0px 20px 0px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.About,
+.Interests {
+  padding: 0 10% 0 10%;
+}
